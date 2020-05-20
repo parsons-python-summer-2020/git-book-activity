@@ -13,4 +13,5 @@ In this repository, there are 300 pages to a book that hasn't been written. Foll
 7. Return to github and commit your changes.
 8. Merge your writing branch to the development branch.
 9. Push the changes and make a pull request.
-10. Congratulations! You have now successfully added some changes to the page.
+10. Wait for someone to approve that pull request
+11. Congratulations! You have now successfully added some changes to the page.
