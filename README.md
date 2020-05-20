@@ -1,5 +1,5 @@
 # A Million Monkeys Writing Shakespeare with Git
-This repository is for teaching studnets how to work with git.
+This repository is for teaching how to work with git.
 
 In this repository, there are 300 pages to a book that hasn't been written. Follow along with the instructions to get into the workflow.
 
