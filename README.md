@@ -1,7 +1,7 @@
 # A Million Monkeys Writing Shakespeare with Git
 This repository is for teaching how to work with git.
 
-In this repository, there are 300 pages to a book that hasn't been written. Follow along with the instructions to get into the workflow. It is highly recommended that you go over the terms in Atlassian's Git overview here: https://www.atlassian.com/git/tutorials/source-code-management (*10 min read*)
+In this repository, there are 300 pages to a book that hasn't been written. Follow along with the instructions to get into the workflow. It is highly recommended that you go over the terms in Atlassian's Git overview here: https://www.atlassian.com/git/tutorials/source-code-management (*10 min read*). 
 
 For Git, you need to know the following key terms: 
 * **Repository, or repo:** the container for all the code that will be controlled and monitored by Git
@@ -17,6 +17,7 @@ For Git, you need to know the following key terms:
 
 With all of that in mind, you are ready to try this git activity and your own page to the book!
 
+*The pdf in this repo also has visual aids for these instructions*
 ## Instructions
 1. Clone this repo wih your preferred git client of choice
 2. Switch to the 'development-writing' branch
