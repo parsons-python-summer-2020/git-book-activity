@@ -1,1 +1,10 @@
-This is page 143.This is where your amazing writing with go.This is the end of page 143.
+This is page 143.This is where your amazing writing with go.
+
+Hello.
+My name is Anh Nguyen. I am doing the Github exercise to get to know how to use it.
+I hope I am doing it right?
+How much do I need to write?
+I can write anything?
+I hope nobody will ever read this.
+
+This is the end of page 143.
