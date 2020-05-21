@@ -30,3 +30,12 @@ With all of that in mind, you are ready to try this git activity and your own pa
 9. Push the changes and make a pull request.
 10. Wait for someone to approve that pull request
 11. Congratulations! You have now successfully added some changes to the page.
+
+### What has happened:
+By submitting your pull request, you have asked to contribute to a branch's history. This lets the owner of the project review the changes and approve them before combining them into the rest of the project. Here is here conflicts can be managed and fixed if need be. 
+
+Even once the pull request is made, all changes are not immediately made available. By choosing which branch to merge your changes into, git can keep a master branch clean from pull requests and allow the development branch to take most of the changes. This keeps the history of the master branch tidy, as it will only ever contain merges from the development branch. 
+
+Once the development branch is merged into the master, then the rest of the changes that we collectively worked on in the development branch will be available to see in the master branch.
+
+Feel free to continue to play with any of the pages or make new branches off of the development branch as you need to. The pull requests will be managed for the duration of the class.
