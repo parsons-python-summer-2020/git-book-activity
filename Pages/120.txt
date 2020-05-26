@@ -1,1 +1,7 @@
-This is page 120.This is where your amazing writing with go.This is the end of page 120.
+This is page 120.
+
+Hello, 
+ Welcome to my page.
+ Please, stay a while.
+
+This is the end of page 120.
