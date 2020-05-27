@@ -1,1 +1,5 @@
-This is page 8.This is where your amazing writing with go.This is the end of page 8.
+This is page 8.
+
+I am writing this as I look out a window...and oh, what a view. I wish you could only see it.
+
+This is the end of page 8.
