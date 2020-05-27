@@ -1,7 +1,7 @@
 # A Million Monkeys Writing Shakespeare with Git
 This repository is for teaching how to work with git.
 
-In this repository, there are 300 pages to a book that hasn't been written. Follow along with the instructions to get into the workflow. It is highly recommended that you go over the terms in Atlassian's Git overview here: https://www.atlassian.com/git/tutorials/source-code-management (*10 min read*). 
+In this repository, there are 300 pages to a book that hasn't been written. Follow along with the instructions to get into the workflow. It is highly recommended that you go over the terms in Atlassian's Git overview here: https://www.atlassian.com/git/tutorials/source-code-management (*10 min read*). There is also a separate pull request tutorial written here: https://medium.com/@jasonzhenli/pull-requests-merging-remotes-a5244cf96039 (6 min read).
 
 For Git, you need to know the following key terms: 
 * **Repository, or repo:** the container for all the code that will be controlled and monitored by Git
