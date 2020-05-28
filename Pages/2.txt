@@ -1,1 +1,12 @@
-This is page 2.This is where your amazing writing with go.Hihi hahaThis is the end of page 2.
+
+This is page 2.
+
+This is where your amazing writing with go.
+
+Hihi haha
+
+The studio was filled with the rich odour of roses,
+and when the light summer wind stirred amidst the trees of the garden,
+there came through the open door the heavy scent of the lilac,
+or the more delicate perfume of the pink-flowering thorn.
+
