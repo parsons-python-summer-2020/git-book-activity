@@ -1,1 +1,1 @@
-This is page 26.This is where your amazing writing with go.This is the end of page 26.
+I wanted to make another example of branchingAnd so I wrote onto page 26.It was not so bad.
